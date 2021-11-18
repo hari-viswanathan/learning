@@ -1,3 +1,4 @@
 .gitignore
 /datasets/
+/dedupe-examples/
 datasets/*
